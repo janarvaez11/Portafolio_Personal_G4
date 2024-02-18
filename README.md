@@ -8,6 +8,8 @@ This portfolio was created using as source code the work of the developer: Risha
 The repository: https://github.com/rishavchanda/rishavchanda.github.io.git
 Thanks to the mentioned developer.
 
+## Note:
+This portfolio was created exclusively for educational purposes
 
 ## Table of Contents
 - [Introduction](#introduction)
